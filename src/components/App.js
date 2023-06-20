@@ -7,7 +7,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <Parent>
-          <h2>This is the content of my website.</h2>
+          <p>This is the content of my website.</p>
         </Parent>
     </div>
   )

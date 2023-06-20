@@ -3,7 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 const Parent =(props)=>{
     return (
-        <div className="parent">
+        <div className="PageLayout">
             <Header></Header>
                 {props.children}
             <Footer></Footer>
